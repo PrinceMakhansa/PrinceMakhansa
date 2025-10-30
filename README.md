@@ -70,6 +70,4 @@ When I’m not coding, I’m usually:
 
 ---
 
-<h3 align="center">
-  💬 "Keep building. Keep learning. Stay curious."
-</h3>
+
