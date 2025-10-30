@@ -60,18 +60,18 @@ When I’m not coding, I’m usually:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=007BFF&line=007BFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceMakhansa&bg_color=0D1117&color=007BFF&line=007BFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&right_color=007BFF" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PrinceMakhansa&right_color=007BFF" alt="Visitor Count" />
 </p>
 
 ---
 
 ### ⚡ Dynamic Touch
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrinceMakhansatheme=algolia&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PrinceMakhansa&theme=algolia&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
