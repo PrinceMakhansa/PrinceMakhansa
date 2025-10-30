@@ -1,15 +1,15 @@
 <!-- README.md for GitHub Profile -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prince+Makhansa!;Full+Stack+Developer;Building+Discord+Bots+%26+Web+Apps;Always+Learning+New+Tech+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prince+Makhansa!;Full+Stack+Developer;Building+Discord+Bots+%26+Web+Apps;Always+Learning+New+Tech+💻" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a **Full Stack Developer** passionate about building both **frontend experiences** and **backend logic** that actually scale.  
-I create **Discord bots** (Python + JavaScript), develop **React-based web apps**, and have built projects like **Readora**, an e-commerce bookstore.  
-Currently focused on **improving my skills**, refining performance, and expanding my backend stack.
+I'm a **Full Stack Developer** who loves building **clean, functional, and creative** projects.  
+I work with both **frontend** and **backend**, crafting Discord bots, web apps, and automation tools.  
+Currently refining my skills and working on **private projects** — including a few **Discord bots**, a **music bot**, and my **e-commerce bookstore, Readora**.
 
 ---
 
@@ -18,7 +18,7 @@ Currently focused on **improving my skills**, refining performance, and expandin
 #### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🧰 Frontend
@@ -38,22 +38,22 @@ Currently focused on **improving my skills**, refining performance, and expandin
 ---
 
 ### 🧠 Current Focus
-- Building and scaling **Discord Bots** (Python + JavaScript)  
-- Developing modern **Full Stack Apps** with React + Node  
-- Learning **MongoDB + SQL** deeply for data modeling  
-- Expanding **Readora** and optimizing backend logic  
+- Building **Discord Bots** (Python + JavaScript)  
+- Developing **Full Stack Apps** with React + Node  
+- Mastering **MongoDB & SQL**  
+- Expanding and refining **Readora**
 
 ---
 
 ### 🎮 Hobbies
-When I’m not coding, I’m usually:
-- 🎮 **Gaming** — competitive and casual  
-- 💡 **Experimenting** with new tech ideas and automation projects  
+- 🎮 Gaming (competitive & casual)  
+- 💡 Exploring new technologies  
+- 🧩 Coding small creative side projects  
 
 ---
 
 ### 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://pr1nce.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://pr1nce.tech/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1039359961530122391)
 
 ---
@@ -61,13 +61,15 @@ When I’m not coding, I’m usually:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceMakhansa&bg_color=0D1117&color=007BFF&line=007BFF&point=FFFFFF&area=true&hide_border=true&height=200" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceMakhansa&bg_color=0e153a&color=38bdf8&line=60a5fa&point=93c5fd&area=true&hide_border=true&height=200" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrinceMakhansa&theme=algolia&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PrinceMakhansa&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-
+<h3 align="center">
+  💬 "Keep building. Keep learning. Stay curious."
+</h3>
