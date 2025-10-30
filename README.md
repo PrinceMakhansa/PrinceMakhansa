@@ -53,34 +53,20 @@ When I’m not coding, I’m usually:
 ---
 
 ### 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://pr1nce.tech/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1039359961530122391)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceMakhansa&bg_color=0D1117&color=007BFF&line=007BFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=007BFF&line=007BFF&point=FFFFFF&area=true&hide_border=true&height=200" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PrinceMakhansa&right_color=007BFF" alt="Visitor Count" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
 </p>
 
----
-
-### ⚡ Dynamic Touch
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrinceMakhansa&theme=algolia&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceMakhansa&theme=blue-green&hide_border=true&background=0D1117&stroke=007BFF&fire=007BFF" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">
-  💬 "Keep building. Keep learning. Stay curious."
 </h3>
 
