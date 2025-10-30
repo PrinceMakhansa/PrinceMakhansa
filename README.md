@@ -1,7 +1,7 @@
 <!-- README.md for GitHub Profile -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prince+Makhansa!;Full+Stack+Developer;Building+Discord+Bots+%26+Web+Apps;Always+Learning+New+Tech+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prince+Makhansa!;Full+Stack+Developer;Always+Learning+New+Tech+💻" alt="Typing SVG" />
 </h1>
 
 ---
