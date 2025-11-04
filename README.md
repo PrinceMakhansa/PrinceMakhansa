@@ -52,7 +52,3 @@ Currently refining my skills and working on **private projects** — including a
 </p>
 
 ---
-
-<h3 align="center">
-  💬 "Keep building. Keep learning. Stay curious."
-</h3>
