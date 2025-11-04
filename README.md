@@ -15,7 +15,7 @@ Currently refining my skills and working on **private projects** — including a
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,discordjs,mongodb,mysql,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,discordjs,discordpy,mongodb,mysql,git&theme=dark" />
 </p>
 
 ---
