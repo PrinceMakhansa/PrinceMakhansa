@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Full Stack Developer focused on building clean, functional, and well-designed software across the stack. 🏐
+  Full Stack Developer focused on building clean, functional, and well-designed software across the stack. 
 </p>
 
 ---
@@ -42,14 +42,9 @@ I'm a full stack developer working across frontend and backend, with an interest
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=PrinceMakhansa&show_icons=true&theme=github_dark&title_color=FF7A00&icon_color=FF7A00&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=PrinceMakhansa&theme=github_dark&stroke=FF7A00&currStreakLabel=FF7A00&background=00000000" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PrinceMakhansa&layout=compact&theme=github_dark&title_color=FF7A00&text_color=ffffff&bg_color=00000000" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrinceMakhansa&no-bg=true&no-frame=true&column=6&title=FF7A00,ORGANIZATION_MEMBER&rank=000000,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
+
